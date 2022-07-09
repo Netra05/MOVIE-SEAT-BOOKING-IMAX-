@@ -93,10 +93,6 @@ h1 {
 	opacity: 0;
 }
 
-/* **********
-	opening
-********** */
-
 #scene.expand {
 	width: 140%;
 	left: -20%;
@@ -164,11 +160,6 @@ h1 {
 	animation-iteration-count: 1;
 	animation-direction: normal;
 }
-
-/* **********
-	animations
-********** */
-
 @keyframes expand-scene-horizontaly { /* 2.5
 	s */
 	from { 	
